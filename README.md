@@ -1,4 +1,11 @@
 #飞机大战
+
+##一. 游戏部分截图
+
+1.  开始游戏界面<br><br>
+	![start](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/start.jpg "主体结构")  
+2.  暂停游戏界面（通过`空格`控制）<br><br>
+3.  游戏结束界面（按`Enter`可继续开始）<br><br>
 ##一. 开发中的关键点
 
 1. 	如何在使用java中的awt进行界面的创建<br>
@@ -16,9 +23,9 @@
 ##三. 项目结构图
 
 1. 游戏主题结构<br><br>
-  ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/one.png "主体结构")
+   ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/one.png "主体结构")
 2. util包<br><br>
-  ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "util包")
+   ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "util包")
 3. gameFrame包<br><br>
-  ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "gameFrame包")
+   ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "gameFrame包")
 

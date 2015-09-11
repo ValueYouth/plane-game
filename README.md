@@ -3,7 +3,8 @@
 ##一. 游戏部分截图
 
 1.  开始游戏界面（游戏暂停通过`空格`控制）<br><br>
-	![start](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/start.jpg "游戏开始")  
+	![start](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/start.jpg "游戏开始") 
+2.  游戏结束界面（按`Enter`键重新开始游戏）<br><br>
 	![over](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/over.jpg "游戏结束")
 ##一. 开发中的关键点
 

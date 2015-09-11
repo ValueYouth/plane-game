@@ -6,6 +6,7 @@
 	![start](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/start.jpg "游戏开始") 
 2.  游戏结束界面（按`Enter`键重新开始游戏）<br><br>
 	![over](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/over.jpg "游戏结束")
+[彩蛋](http://www.emoji-cheat-sheet.com/)
 
 ##二. 开发中的关键点
 

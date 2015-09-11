@@ -17,7 +17,8 @@
 
 1. 游戏主题结构<br><br>
   ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/one.png "主体结构")
-2. gameFrame包<br><br>
-  ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "主体结构")
-3. util包
+2. util包<br><br>
+  ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "util包")
+3. gameFrame包<br><br>
+  ![plane-game](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/two.png "gameFrame包")
 

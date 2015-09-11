@@ -13,7 +13,7 @@ public class Bullet extends GameObject
 	
 	public Bullet()
 	{
-		degree = 2 * Math.PI * Math.random() ; // 生成随机角度
+		degree = 2 * Math.PI * Math.random() ; // 生成符合条件随机的角度
 
 		x = Constant.GAME_WIDTH / 2 ;
 		y = Constant.GAME_HEIGHT / 2 ;

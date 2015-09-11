@@ -16,7 +16,7 @@
 ##三. 项目结构图
 
 1. 游戏主题结构<br>
-  ![](http://www.baidu.com/img/bdlogo.gif)
+  ![](https://raw.githubusercontent.com/ValueYouth/plane-game/master/src/images/one.png)
 2. gameFrame包
 3. util包
 

@@ -34,8 +34,8 @@
 1. Plane类和Bullet类都继承GameObject类。减少代码量，增强了结构之间的连贯性。向高内聚与低耦合的方向靠近。
 2. 使用双缓冲技术，来消除游戏画面的闪烁。
 3. 应用封装的思想，将属于Plane类中的属性与方法，统一放到Plane类。其中包括：初始化飞机，重绘飞机，按键控制飞机的飞行，飞机边缘逻辑。
-4. 游戏暂停的实现。定义信号变量PAUSE。当PAUSE为false时，执行线程中的repaint()方法，否则，什么也不执行。确定PAUSE的值：<br>
-在Constant类中设置变量count，用来统计按下空格键的次数。用count % 2 的结果与0进行比较，若为真，就将PAUSE置为false。否则，<br>
-置为true。
+4. 游戏暂停的实现。定义信号变量PAUSE。当PAUSE为false时，执行线程中的repaint()方法，否则，什么也不执行。
+   确定PAUSE的值：在Constant类中设置变量count，用来统计按下空格键的次数。
+用count % 2 的结果与0进行比较，若为真  ，就将PAUSE置为false。否则，置为true。
 
 

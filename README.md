@@ -15,8 +15,8 @@
 
 ##三. 项目结构图
 
-1. 游戏主题结构
-  ![valueyouth](https://github.com/ValueYouth/plane-game/tree/master/src/images/one.png)
+1. 游戏主题结构<br>
+  ![](https://github.com/ValueYouth/plane-game/tree/master/src/images/one.png)
 2. gameFrame包
 3. util包
 
